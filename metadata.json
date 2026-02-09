@@ -1,0 +1,8 @@
+{
+  "name": "BD MotionFlow AI",
+  "description": "Professional AI Motion Video Maker. Upload images, draw motion paths, and generate high-fidelity videos using Gemini Veo technology.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
